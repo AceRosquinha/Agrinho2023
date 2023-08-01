@@ -1,0 +1,16 @@
+
+  h1{color:white}
+  h1{text-align: center;}
+  h2{text-align: left;}
+  h2{color: white;}
+  p{font-size: 22px;}
+  h2{font-size: 22px;}
+  h2 {
+    font-family: FreeMono, monospace
+
+}
+img{text-align: right;}
+body{padding-left: 5em; padding-right: 20em;}
+h2{margin-block-end: 7em;}
+p{color: white;}
+h1{margin-block-end: 5em;}
